@@ -5,19 +5,25 @@ body
 
 a:link
 {
-    color:pink;
-    text-decoration: none;
+
+    color:hotpink;
+    background-color: #f00;
+    border: solid 1px #d00;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+    
 }
 
 a:visited
 {
-    color: blue;
+    color: white;
 }
 
 a:hover
 {
-    color: gray;
-    text-decoration: underline;
+    color: white;
+    background-color: #f55;
 }
 
 a:active
