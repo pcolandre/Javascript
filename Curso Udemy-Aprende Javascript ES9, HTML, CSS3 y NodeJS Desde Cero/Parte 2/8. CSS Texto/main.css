@@ -6,6 +6,10 @@ body
 
 p
 {
+    font-family: 'Times New Roman';
+    font-weight: 100;
+    font-style: oblique;
+    font-size: 1.5em;
     color: #222fff;
     text-align: justify;
     text-indent: 40px;
