@@ -2,7 +2,7 @@ body
 {
  background-color: #eee;   
 }
-
+/*
 p
 {
     max-width: 350px;
@@ -13,10 +13,25 @@ p
     top: 0px;
     bottom: 0px;
 }
-
+*/
 #over
-{
+{    
     width: 100px;
     height: 100px;
-    overflow: auto;
+    /*overflow: auto;*/
+}
+
+img
+{
+    float: right;
+}
+
+img:hover
+{
+    opacity: 0.9;
+}
+
+div p 
+{
+    color :#F00;
 }
