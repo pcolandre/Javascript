@@ -1,6 +1,6 @@
 body
 {
-    background-color: gray;
+    background-color: #eee;
 }
 
 a:link
@@ -29,4 +29,48 @@ a:hover
 a:active
 {
     color:black;
+}
+
+ul
+{
+    list-style-type: none;
+    background-color: #fff;
+    border:solid 1px #ddd;
+    border-radius: 4px;
+    padding-left: 0px;
+
+}
+
+li
+{
+    border-bottom: solid 1px #ddd;
+    padding: 15px;
+}
+
+table
+{
+    width: 100%;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+td:nth-child(eve)
+{
+    background-color: #f2f2f2;
+}
+
+td
+{
+    border: 1px solid #ddd
+}
+
+table th
+{
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
