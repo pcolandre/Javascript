@@ -1,0 +1,8 @@
+ body{
+    background-color: #eee;
+}
+
+.fondo{
+    background-color: hsl(260,60%,70%);
+    opacity: 1;
+}
