@@ -1,0 +1,21 @@
+body
+{
+    background-color: #eee;
+}
+
+.grid
+{
+    display: grid;
+    grid-template-rows: 100px 50px ;
+}
+
+.element
+{
+    background-color: red;
+}
+
+.grid2
+{
+    display: grid;
+    grid-template-columns: 100px 50px ;
+}
