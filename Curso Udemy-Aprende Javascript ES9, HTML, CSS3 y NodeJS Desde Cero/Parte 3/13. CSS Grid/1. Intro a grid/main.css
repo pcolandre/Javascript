@@ -1,0 +1,19 @@
+body
+{
+    background-color: #eee;
+}
+
+.grid
+{
+    display: grid;
+}
+
+.element
+{
+    background-color: red;
+}
+
+.grid2
+{
+    display: inline-grid;
+}
